@@ -1,0 +1,4 @@
+[submodule "mywebsite-hugo/public"]
+	path = mywebsite-hugo/public
+	url = https://github.com/kulinshah98/kulinshah98.github.io.git
+	branch = master
